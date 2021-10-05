@@ -108,7 +108,7 @@ Mount the fan and seal it with adhesive tape.
 The airflow only takes place in the middle (tested using tissue paper)- this calls for a fan shroud.
 ![Airflow without fan shroud](images/IMG_0882.jpeg)
 
-Measured from the center, the airflow happens in a circle of about 18 cm in diameter. Cut out a fan shroud of the appropriate size and place it on the fan. Seal it with adhesive tape.
+Measured from the center, the airflow happens in a circle of about 18 cm radius. Cut out a fan shroud of the appropriate size and place it on the fan. Seal it with adhesive tape.
 ![18 cm circle](images/IMG_0885.jpeg)
 
 

@@ -116,7 +116,7 @@ At its highest setting, at about 1m distance I measure about 56 dB using the mos
 
 At the medium setting, I measure about 49 dB in 1m distance and 47 dB at 2m distance.
 ![noise level at 1m distance / medium setting](images/IMG_0891.jpeg)
-![noise level at 1m distance / medium setting](images/IMG_0892.jpeg)
+![noise level at 1m distance / medium setting](images/IMG_0895.jpeg)
 
 
 ## Effectiveness

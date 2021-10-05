@@ -1,3 +1,6 @@
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+
 # Building a Corsi-Rosenthal box / Comparetto Cube using materials available in Germany <!-- omit in toc -->
 
 - [What is a Corsi-Rosenthal box / Comparetto Cube?](#what-is-a-corsi-rosenthal-box--comparetto-cube)
@@ -127,7 +130,6 @@ I don't have access to any measurement device to measure the airflow to calculat
 
 
 
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].

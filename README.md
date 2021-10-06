@@ -3,6 +3,9 @@
 
 # Building a Corsi-Rosenthal box / Comparetto Cube using materials available in Germany <!-- omit in toc -->
 
+![The end result](images/IMG_0901.jpeg)
+
+
 - [What is a Corsi-Rosenthal box / Comparetto Cube?](#what-is-a-corsi-rosenthal-box--comparetto-cube)
 - [Bill of materials](#bill-of-materials)
   - [Box Fan](#box-fan)

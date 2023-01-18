@@ -1,6 +1,11 @@
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 
+# Update Q1 2023
+
+While this design still works, the box fan is still hard to source. There's a newer and improved approach to use multiple PC fans powered by a 12V or 5V power supply which show silent opeation and good CADR. See here for an example https://www.cleanairkits.com
+
+
 # Building a Corsi-Rosenthal box / Comparetto Cube using materials available in Germany <!-- omit in toc -->
 
 ![The end result](images/IMG_0901.jpeg)
